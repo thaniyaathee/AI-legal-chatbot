@@ -1,1 +1,1 @@
-# AI-legal-chatbot
+# AI-Legal-Assistant-Chatbot

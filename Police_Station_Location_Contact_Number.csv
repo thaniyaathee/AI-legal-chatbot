@@ -1,0 +1,137 @@
+City Name,Zone,Sub Division,Police Station Name,Contact Number
+Chennai,North,Flower Bazaar ,C1 Flower Bazaar,04423452464;465
+Chennai,North,Flower Bazaar ,C2 Elephant  Gate,04423452467;468
+Chennai,North,Flower Bazaar ,C3 Seven Wells,04423452471;472
+Chennai,North,Flower Bazaar ,C4 Government Hospital,4423452473
+Chennai,North,High Court ,B2 Esplanade,04423452458;459
+Chennai,North,High Court ,B4 High Court,4423452462
+Chennai,North,Harbour ,B5 Harbour,04423452500;501
+Chennai,North,Harbour ,B1 North Beh,04423452457;457
+Chennai,North,Harbour ,B3 Fort,04423452460;461
+Chennai,North,Harbour ,N3 Muthialpet,04423452514;515
+Chennai,North,Harbour ,C5 Kothavalchavadi,04423452474;474
+Chennai,North,Port Marine,B6 Port Marine,4423452502
+Chennai,North,Washermenpet,H1 Washermenpet,04423452481;481
+Chennai,North,Washermenpet,H3 Tondiarpet,04423452485;486
+Chennai,North,Washermenpet,H4 Korukkupet,04423452488;489
+Chennai,North,Washermenpet,H6 R K Nagar,04423452493;494
+Chennai,North,Washermenpet,H2 Stanley Hospital,4425281347
+Chennai,North,Thiruvottiyur ,H8 Thiruvottiyur,04423452496;497
+Chennai,North,Thiruvottiyur ,H7 Peripheral Hospital,4423452495
+Chennai,North,Thiruvottiyur ,H5 New Washermenpet,04423452490;491
+Chennai,North,Royapuram. ,N1 Royapuram,04423452504;505
+Chennai,North,Royapuram. ,N2 Kasimedu,04423452511;510
+Chennai,North,Royapuram. ,N4 Fishing Harbour,04423452517;518
+Chennai,North,Madhavaram ,M1 Madhavaram,4423452783
+Chennai,North,Madhavaram ,M2 Milk Colony,4425555085
+Chennai,North,Puzhal ,M3 Puzhal,4426590989
+Chennai,North,Puzhal ,M4 Redhills,4426418296
+Chennai,North,Ennore ,M5 Ennore,4425750237
+Chennai,North,Ennore ,M6 Manali,4423452788
+Chennai,North,Ennore ,M7 Manali New Town,4425931299
+Chennai,North,Ennore ,M8 Sathangadu,4423452790
+Chennai,West,Pulianthope,P1 Pulianthope,04423452520;521
+Chennai,West,Pulianthope,P2 Otteri,04423452524;525
+Chennai,West,Pulianthope,P4 Basin Bridge,4426670948
+Chennai,West,MKB Nagar ,P5 MKB Nagar,04423452531;532
+Chennai,West,MKB Nagar ,P6 Kodungaiyur,4425546241
+Chennai,West,MKB Nagar ,P3 Vyasarpadi,04423452527;526
+Chennai,West,Sembium ,K1 Sembium,04423452710;711
+Chennai,West,Sembium ,K5 Peravallur,04423452727;728
+Chennai,West,Sembium ,K9 Thiru vi ka Nagar,04423452736;737
+Chennai,West,Anna Nagar.,K3 Aminjikarai,04423452716;717
+Chennai,West,Anna Nagar.,K4 Anna Nagar,04423452719;720
+Chennai,West,Anna Nagar.,K8 Arumbakkam,4423452733
+Chennai,West,Thirumangalam ,V3 J J Nagar,04423452748;749
+Chennai,West,Thirumangalam ,V5 Thirumangalam,04423452753;754
+Chennai,West,Thirumangalam ,V7  Nolambur,9940596447
+Chennai,West,Koyambedu,K10 Koyambedu,4423452739
+Chennai,West,Koyambedu,T4 Maduravoyal,4423452766
+Chennai,West,Koyambedu,CMBT,9677099958
+Chennai,West,Villivakkam ,V1 Villivakkam,04423452744;745
+Chennai,West,Villivakkam ,V4 Rajamangalam,04423452750;751
+Chennai,West,Villivakkam ,V6 Kolathur,4423452758
+Chennai,West,Ambattur ,T1 Ambattur,4423452797
+Chennai,West,Ambattur ,T2 Ambattur Estate,4423452798
+Chennai,West,Ambattur ,T3 Korattur,4423452799
+Chennai,West,Avadi ,T6 Avadi,4426554750
+Chennai,West,Avadi ,T7 Tank Ftory,4423452771
+Chennai,West,Avadi ,T10 Thirumullaivoyal,4423452772
+Chennai,West,Pattabiram ,T11 Thirunindravur,4426390293
+Chennai,West,Pattabiram ,T8 Muthapudupet,044 26841795
+Chennai,West,Pattabiram ,T9 Pattabiram,044  26851632
+Chennai,West,Poonamallee ,T12 Poonamallee,4426272082
+Chennai,West,Poonamallee ,T16 Nasaratpet,4426271414
+Chennai,West,Poonamallee ,T5 Thiruverkadu,4426800091
+Chennai,West,SRMC ,T15 SRMC,4423452767
+Chennai,West,SRMC ,T14 Mangadu,4426791102
+Chennai,West,SRMC ,T13 Kunrathur,4424780039
+Chennai,East; Central,Kilpauk ,K6 TP Chathiram,04423452729;730
+Chennai,East; Central,Kilpauk ,G3 Kilpauk,04423452699;700
+Chennai,East; Central,Kilpauk ,G7 Chetpet,4423452686
+Chennai,East; Central,Kilpauk ,G6 KMC Hospital,4423452709
+Chennai,East; Central,Vepery ,G1 Vepery,04423452690;691
+Chennai,East; Central,Vepery ,G2 Periamet,04423452696;6 97
+Chennai,East; Central,Ayanavaram ,K2 Ayanavaram,04423452714;715
+Chennai,East; Central,Ayanavaram ,K7 ICF,04423452731;732
+Chennai,East; Central,Ayanavaram ,G4 Mental Hospital,NA
+Chennai,East; Central,Ayanavaram ,G5 Secretariat Colony,04423452704;706
+Chennai,East; Central,Triplicane ,D1 Triplicane,04423452655;656
+Chennai,East; Central,Triplicane ,D8 K G Hospital,4423452672
+Chennai,East; Central,Triplicane ,D2 Annasalai,04423452661;662
+Chennai,East; Central,Triplicane ,D4 Zam Bazaar,04423452665;666
+Chennai,East; Central,Triplicane ,D6 Anna Square,04423452667;668
+Chennai,East; Central,Egmore,F1 Chintadaripet,04423452673;674
+Chennai,East; Central,Egmore,F2 Egmore,04423452677;678
+Chennai,East; Central,Egmore,F7 Maternity Hospital,4423452689
+Chennai,East; Central,Nungambakkam ,F3 Nungambakkam,04423452680;681
+Chennai,East; Central,Nungambakkam ,F4 Thousand Lights,04423452684;683
+Chennai,East; Central,Nungambakkam ,R5 Choolaimedu,04423452742;743
+Chennai,East; Central,Mylapore,E1 Mylapore,4423452562
+Chennai,East; Central,Mylapore,E5 Foreshore Estate,4423452575
+Chennai,East; Central,Mylapore,D5 Marina,04423452558;559
+Chennai,East; Central,Kotturpuram ,E4 Abiramapuram,04423452571;572
+Chennai,East; Central,Kotturpuram ,J2 Kotturpuram,04423452595;596
+Chennai,East; Central,Royapettah ,E2 Royapettah,04423452567;565
+Chennai,East; Central,Royapettah ,D3 Ice House,04423452556;555
+Chennai,East; Central,Royapettah ,E6  Govt. Royapettah,4423452576
+Chennai,South,St Thomas Mount ,S1 St Thomas Mount,4423452763
+Chennai,South,St Thomas Mount ,S4  Nandampakkam,4423452765
+Chennai,South,St Thomas Mount ,S9 Palavanthangal,4422241950
+Chennai,South,Meenambakkam ,S2 Airport,4422564284
+Chennai,South,Meenambakkam ,S3 Meenambakkam,4422561261
+Chennai,South,Pallavaram ,S5 Pallavaram,4422640880
+Chennai,South,Pallavaram ,S6 Sankar Nagar,4422484094
+Chennai,South,Tambaram ,S11 Tambaram,4423452769
+Chennai,South,Tambaram ,S13 Chrompet,4423452770
+Chennai,South,Selaiyur ,S15 Selaiyur,4422396003
+Chennai,South,Selaiyur ,S12 Chitlapakkam,4422232005
+Chennai,South,Selaiyur ,S14 Peerkankaranai,4422398018
+Chennai,South,Madipakkam ,S7 Madipakkam,4423452774
+Chennai,South,Madipakkam ,S8 Adambakkam,4423452777
+Chennai,South,Madipakkam ,S10 Pallikaranai,4423452775
+Chennai,South,Adyar ,J2 Adyar,04423452583;584
+Chennai,South,Adyar ,J5 Sastri Nagar,04423452598;599
+Chennai,South,Saidapet,J1 Saidapet,04423452577;578
+Chennai,South,Saidapet,R6 Kumaran Nagar,04423452629;628
+Chennai,South,Guindy ,J3 Guindy,04423452590;591
+Chennai,South,Guindy ,J7 Velhery,04423452605;606
+Chennai,South,Taramani ,J6 Thiruvanmiyur,04423452602;603
+Chennai,South,Taramani ,J13 Taramani,4422541636
+Chennai,South,Thuraipakkam ,J9 Thoraipakkam,4423452776
+Chennai,South,Thuraipakkam ,J10 Chemmanchery,4424500707
+Chennai,South,Thuraipakkam ,J11 Kannagi Nagar,9791090918
+Chennai,South,Neelangari ,J8 Neelangari,4424491196
+Chennai,South,Neelangari ,J12 Kannathur,4427472182
+Chennai,South,T.Nagar ,R1 Mambalam,04423452608;609
+Chennai,South,T.Nagar ,R4 Soundarapandiyanar,4423452624
+Chennai,South,T.Nagar ,R4 Pondy Bazaar L&O,04423452624;625
+Chennai,South,Vadapalani ,R8 Vadapalani,04423452635;634
+Chennai,South,Vadapalani ,R5 Virugambakkam,04423452637;638
+Chennai,South,Valasaravakkam ,R9 Valasaravakkam,4423452649
+Chennai,South,Valasaravakkam ,R11Royala nagar,4423452649
+Chennai,South,Ashok Nagar ,R3 Ashok Nagar,04423452617;618
+Chennai,South,Ashok Nagar ,R7  K K Nagar,04423452630;631
+Chennai,South,Ashok Nagar ,R10  MGR Nagar,04423452560;561
+Chennai,South,Teynampet  ,E3 Teynampet,04423452569;568
+Chennai,South,Teynampet  ,R2 Kodambakkam,04423452615;616
